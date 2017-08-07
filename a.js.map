@@ -1,0 +1,1 @@
+{"version":3,"sources":["script.js"],"names":[],"mappings":";;AAAA,QAAQ,GAAR,CAAY,QAAZ;AACA,QAAQ,GAAR,CAAY,SAAZ;AACA,QAAQ,GAAR,CAAY,SAAZ;AACA,QAAQ,GAAR,CAAY,SAAZ","file":"a.js","sourcesContent":["console.log('script')\r\nconsole.log('script1')\r\nconsole.log('script2')\r\nconsole.log('script3')"]}
